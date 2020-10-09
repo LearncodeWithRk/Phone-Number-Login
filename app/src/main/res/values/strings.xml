@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phone Number Verification UI</string>
+    <string name="otp">></string>
+    <string name="otp1"></string>
+</resources>
